@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-adoption",
+  "version": "1.0.0",
+  "description": "Workshop #3, Adoption API Rest with database",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1"
+  },
+  "scripts": {
+    "dev":"nodemon ./index.js"
+  },
+  "keywords": [],
+  "author": "YoanSinH",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
